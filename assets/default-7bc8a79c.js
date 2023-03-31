@@ -1,0 +1,1 @@
+import a from"./index-b4dfbc07.js";import c from"./index-67e0490b.js";import{_ as s,c as _,a as e,b as m,F as p,o as d,r as o}from"./index-e6b9a0ee.js";const l={components:{Header:a,Footer:c}};function f(i,u,F,$,v,x){const t=o("Header"),r=o("router-view"),n=o("Footer");return d(),_(p,null,[e(t),m("main",null,[e(r)]),e(n)],64)}const w=s(l,[["render",f]]);export{w as default};
