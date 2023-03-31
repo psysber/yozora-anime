@@ -1,4 +1,4 @@
-import{_ as t,c as n,o as e,a as l}from"./index-6f79c474.js";const s={},a={class:"container mx-auto"},c=l(`<div class="flex flex-col mb-4 font-bold text-sm lg:text-base"><div class="mt-2 p-2">首页 » 在地下城寻求邂逅是否搞错了什么 » <a class="font-normal" href="/novels"> 第一卷 序章 </a></div></div><div class="bg-yellow-50 py-2"><pre class="whitespace-pre-line p-3">      第一卷 序章 在地下城寻求邂逅是否搞错了什么？
+import{_ as t,c as n,o as e,a as l}from"./index-2b02f2ed.js";const s={},a={class:"container mx-auto"},c=l(`<div class="flex flex-col mb-4 font-bold text-sm lg:text-base"><div class="mt-2 p-2">首页 » 在地下城寻求邂逅是否搞错了什么 » <a class="font-normal" href="/novels"> 第一卷 序章 </a></div></div><div class="bg-yellow-50 py-2"><pre class="whitespace-pre-line p-3">      第一卷 序章 在地下城寻求邂逅是否搞错了什么？
 			台版 转自 轻之国度
 			图源：Hodxer
 			录入：大瓜飞飞
