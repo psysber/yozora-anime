@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8"/>
+	<link rel="icon" href="data:image/x-icon;base64,"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>夜空动漫</title>
+	<script>
+		;(function () {
+			const prefersDark =
+				window.matchMedia &&
+				window.matchMedia('(prefers-color-scheme: dark)').matches
+			const setting = localStorage.getItem('vueuse-color-scheme') || 'auto'
+			if (setting === 'dark' || (prefersDark && setting !== 'light'))
+				document.documentElement.classList.toggle('blue', true)
+		})()
+	</script>
+  <script type="module" crossorigin src="./assets/index-026ffe9e.js"></script>
+  <link rel="stylesheet" href="./assets/index-b3fff7a7.css">
+</head>
+
+<body>
+<div id="app"></div>
+
+<script>
+	(function () {
+		let redirect = sessionStorage.redirect;
+		delete sessionStorage.redirect;
+		if (redirect && redirect !== location.href) {
+			history.replaceState(null, null, redirect);
+		}
+	})();
+</script>
+
+</body>
+</html>
